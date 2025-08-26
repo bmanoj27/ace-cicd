@@ -23,6 +23,7 @@ spec:
   barURL:
     - https://github.com/bmanoj27/ace-cicd/raw/refs/heads/main/HttpEchoApp.bar
     - https://github.com/bmanoj27/ace-cicd/raw/refs/heads/main/AutoScaleApp.bar
+    - https://github.com/bmanoj27/ace-cicd/raw/refs/heads/main/httpinput.bar
   configurations:
     - github
     - ace-server1-ir-adminssl
